@@ -1,6 +1,6 @@
 # multiplayer-snake
 
-Online version at https://morning-cove-80203.herokuapp.com/
+Online version at https://arcane-lowlands-00539.herokuapp.com/
 
 Localhost address http://localhost/
 
