@@ -1,4 +1,4 @@
-# multiplayer-snake
+# Multiplayer-SnakeGame
 
 Online version at https://arcane-lowlands-00539.herokuapp.com/
 
